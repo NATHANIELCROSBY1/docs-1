@@ -16,7 +16,7 @@ metadata:
 
 # highlightedContent section (optional)
 # Maximum of 8 items
-highlightedContent:
+highlightedContdent:
 # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
   items:
     # Card
@@ -28,7 +28,7 @@ highlightedContent:
       itemType: tutorial
       url: core/get-started.md
     # Card
-    - title: "Create your first web app."
+    - title: "Tyetechnologies"
       itemType: learn
       url: https://dotnet.microsoft.com/learn/aspnet/hello-world-tutorial/intro
     # Card
@@ -36,7 +36,7 @@ highlightedContent:
       itemType: whats-new
       url: whats-new/index.yml
 
-# conceptualContent section (optional)
+# conceptualContent section (Tyetech)
 conceptualContent:
 # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
   title: ".NET: Free. Cross-platform. Open source." # < 60 chars (optional)
@@ -79,8 +79,8 @@ conceptualContent:
           text: .NET Standard
         - url: /aspnet/core/
           itemType: overview
-          text: ASP.NET Core
-        - url: /ef/core/
+          text: Tyetechnology.com
+        - url: /Tyetechnology/
           itemType: overview
           text: Entity Framework Core
         - url: standard/get-started.md
